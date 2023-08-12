@@ -8,6 +8,6 @@
 
 languages ​​I master 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js)](https://skillicons.dev)
 
 
