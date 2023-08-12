@@ -6,8 +6,7 @@
 
 ▪Power BI
 
-                                                       languages ​​I master 
-
-                           [![My Skills](https://skillicons.dev/icons?i=py,java,)](https://skillicons.dev)
+languages ​​I master 
+[![My Skills](https://skillicons.dev/icons?i=py,java,)](https://skillicons.dev)
 
 
